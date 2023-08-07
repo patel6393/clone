@@ -1,0 +1,35 @@
+body{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.491), rgba(0, 0, 0, 0.416)) , url("https://th.bing.com/th/id/R.d2edb29f3f970c36aadecbb01ed0bb79?rik=z%2bAuuobpN0KNSg&riu=http%3a%2f%2fisquad.tv%2fwp-content%2fuploads%2f2018%2f08%2fNetflix-Background.jpg&ehk=Ij4PSd%2bZkTcESSlAVWoGpNmExM0fu3BgteNT6AnS9lM%3d&risl=&pid=ImgRaw&r=0");
+  height: 100vh;
+}
+.login-top{
+  width: 150vw;
+  height: 60px;
+  background-color: rgba(38, 82, 162, 0.325);
+  padding: 0px 20px;
+  display: flex;
+  align-items: center;
+}
+
+.login-top img{
+  margin-top: 40px;
+  width: 250px;
+ 
+}
+
+
+.login-box{
+  background-color: rgba(244, 4, 20, 0.899);
+  width: 450px;
+  height: 650px;
+  border: 5px solid black;
+  padding: 70px;
+}
+
+.small-text{
+  font-size: 17px;
+}
+
+.form-control{
+  box-shadow: none !important;
+}
